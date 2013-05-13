@@ -36,7 +36,7 @@ Download the source code from the project's Subversion repository and then follo
 
 == Install ==
 
-The Sample Chamber application can be downloaded as a pre-built ZIP file from the project website or built from the source code following the procedure outlined in the [Readme#Build] section. After obtaining the ZIP file, follow the instructions below to install the application.
+The Sample Chamber application can be downloaded as a pre-built ZIP file from the project website or built from the source code following the procedure outlined in the [Readme#Build Build] section. After obtaining the ZIP file, follow the instructions below to install the application.
 
 === Application ===
 
