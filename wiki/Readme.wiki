@@ -42,7 +42,7 @@ The Sample Chamber application can be downloaded as a pre-built ZIP file from th
 
 ==== From Source ====
 
- # Follow the procedure to build the application in [Readme Build] section
+ # Follow the procedure to build the application in [Readme#Build Build] section
  # Copy the contents of the "builds" folder to any public location on the hard disk.
  # Create a link or shortcut to the "!SampleChamber.exe" file and place it on the desktop or in the start menu.
 
