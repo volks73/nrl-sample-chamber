@@ -12,13 +12,13 @@ An electronic impactor-inspired sample chamber for prototype sensor performance 
 
  * LabVIEW 2012 or newer Development Environment 
  * Application Builder (for application build only)
- * NI-VISA driver
+ * [http://joule.ni.com/nidu/cds/view/p/id/3823/lang/en NI-VISA] driver
  * Measurement and Automation Explorer, aka MAX, (comes with NI-VISA)
 
 === Deployment and Use ===
 
  * LabVIEW 2012 or newer run-time engine ([http://joule.ni.com/nidu/cds/view/p/id/3433/lang/en freely available])
- * NI-VISA driver
+ * [http://joule.ni.com/nidu/cds/view/p/id/3823/lang/en NI-VISA] driver
  * Measurement and Automation Explorer, aka MAX, (comes with NI-VISA)
 
 == Build ==
