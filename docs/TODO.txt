@@ -1,0 +1,27 @@
+= Sample Chamber Applicaiton TODO =
+
+ # Refactor: to follow work flow similar to the Keithley-2602 (Setup buttons, Run buttons, etc.)
+ # Add: selecting COM port to heater dialog
+ # Add: selecting COM port to MFC dialog
+ # Add: saving setup to XML file
+ # Add: opening setup file
+ # Add: reseting setup
+ # Add: Run start button
+ # Add: Log configuration dialog
+ # Refactor: Log code
+ # Add: file size trigger for rollover to log
+ # Add: Error case to Heater Dialog
+ # Add: window title change on configuration file load
+ # Add: configure logs button to LOGS tab
+ # Add: configure charts button to CHART tab
+ # Add: cursor value indication on CHARTS and LOGS tabs
+ # Add: zoom to LOGS plot
+ # Add: user selectable MFC units
+ # Add: user selectable MFC gas
+ # Add: MFC units display to system screen
+ # Add: MFC gas display to system screen
+ # Add: MFC selectable units to MFC setup dialog
+ # Add: MFC selectable gases to MFC setup dialog
+ # Add: sequencing: Changing flow rate and temperature in sync with test bed and other software
+ # Add: Networked shared variable for triggering other programs
+ # Add: descriptions to controls and indicators
