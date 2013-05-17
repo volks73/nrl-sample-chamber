@@ -34,6 +34,8 @@
 				<Item Name="Setup.ctl" Type="VI" URL="../src/application/Setup.ctl"/>
 				<Item Name="UIAction.ctl" Type="VI" URL="../src/application/UIAction.ctl"/>
 				<Item Name="UIActionQueueElement.ctl" Type="VI" URL="../src/application/UIActionQueueElement.ctl"/>
+				<Item Name="ChamberConfiguration.ctl" Type="VI" URL="../../../../../Keithley/2602/branches/feature-multiple_live_charts/src/application/ChamberConfiguration.ctl"/>
+				<Item Name="ChamberConfigurationGlobalAction.ctl" Type="VI" URL="../../../../../Keithley/2602/branches/feature-multiple_live_charts/src/application/ChamberConfigurationGlobalAction.ctl"/>
 			</Item>
 			<Item Name="Hardware" Type="Folder">
 				<Item Name="HardwareDataStructures.ctl" Type="VI" URL="../src/application/HardwareDataStructures.ctl"/>
@@ -46,6 +48,7 @@
 				<Item Name="HeaterConfiguration.ctl" Type="VI" URL="../src/application/HeaterConfiguration.ctl"/>
 				<Item Name="HeaterConfigurationGlobalAction.ctl" Type="VI" URL="../src/application/HeaterConfigurationGlobalAction.ctl"/>
 				<Item Name="HeaterDisplayState.ctl" Type="VI" URL="../src/application/HeaterDisplayState.ctl"/>
+				<Item Name="HeaterVISAResourceGlobalAction.ctl" Type="VI" URL="../../../../../Keithley/2602/branches/feature-multiple_live_charts/src/application/HeaterVISAResourceGlobalAction.ctl"/>
 			</Item>
 			<Item Name="Log" Type="Folder">
 				<Item Name="LogActionQueueElement.ctl" Type="VI" URL="../src/application/LogActionQueueElement.ctl"/>
@@ -72,6 +75,7 @@
 				<Item Name="ReadSetupFile.vi" Type="VI" URL="../src/application/ReadSetupFile.vi"/>
 				<Item Name="Initialize.vi" Type="VI" URL="../src/application/Initialize.vi"/>
 				<Item Name="Shutdown.vi" Type="VI" URL="../src/application/Shutdown.vi"/>
+				<Item Name="ChamberConfigurationGlobal.vi" Type="VI" URL="../../../../../Keithley/2602/branches/feature-multiple_live_charts/src/application/ChamberConfigurationGlobal.vi"/>
 			</Item>
 			<Item Name="Log" Type="Folder">
 				<Item Name="ConvertCSVLogToPlots.vi" Type="VI" URL="../src/application/ConvertCSVLogToPlots.vi"/>
@@ -114,6 +118,7 @@
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="NI_LVConfig.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/config.llb/NI_LVConfig.lvlib"/>
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
+				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="DOMUserDefRef.dll" Type="Document" URL="DOMUserDefRef.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
