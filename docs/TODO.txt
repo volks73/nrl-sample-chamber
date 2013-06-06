@@ -1,6 +1,7 @@
 = Sample Chamber Applicaiton TODO =
 
  # Refactor: to follow work flow similar to the Keithley-2602 (Setup buttons, Run buttons, etc.)
+ # Add: Popup display of data for each individual component
  # Add: selecting COM port to heater dialog
  # Add: selecting COM port to MFC dialog
  # Add: saving setup to XML file

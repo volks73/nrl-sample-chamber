@@ -36,13 +36,13 @@ Download the source code from the project's Subversion repository and then follo
 
 == Install ==
 
-The Sample Chamber application can be downloaded as a pre-built ZIP file from the project website or built from the source code following the procedure outlined in the [Build Process] section. After obtaining the ZIP file, follow the instructions below to install the application.
+The Sample Chamber application can be downloaded as a pre-built ZIP file from the project website or built from the source code following the procedure outlined in the [Readme#Build] section. After obtaining the ZIP file, follow the instructions below to install the application.
 
 === Application ===
 
 ==== From Source ====
 
- # Follow the procedure to build the application in [Build] section
+ # Follow the procedure to build the application in [Readme#Build] section
  # Copy the contents of the "builds" folder to any public location on the hard disk.
  # Create a link or shortcut to the "SampleChamber.exe" file and place it on the desktop or in the start menu.
 
@@ -55,3 +55,5 @@ The Sample Chamber application can be downloaded as a pre-built ZIP file from th
 == Versions ==
 
 Verison 1.0.0 is the base code and feature set.
+
+Version 1.0.1 is a bugfix to reduce CPU usage when running multiple instances.
